@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96744", "city": "Kaneohe", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jessicamatsuda", "url": "http://github.com/jessicamatsuda" },
-      { "network": "linkedin", "username": "jessicamatsuda", "url": "http://linkedin.com/in/jessica-matsuda" },
+      { "network": "linkedin", "username": "jessicamatsuda", "url": "http://linkedin.com/in/jessica-matsuda-" },
       { "network": "instagram", "username": "jess.mtsu", "url": "http://instagram.com/jess.mtsu" }
     ]
   },
